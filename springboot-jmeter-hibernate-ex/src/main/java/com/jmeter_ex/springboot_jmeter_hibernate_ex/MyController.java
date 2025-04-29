@@ -22,6 +22,7 @@ public class MyController {
 	public String testing()
 	{
 		return "this is JMeter test only";
+		// hii
 		
 	}
 	@PostMapping("/post")
